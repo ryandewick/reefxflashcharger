@@ -49,9 +49,7 @@
         />
       </div>
     </div>
-    <button v-if="!code" @click="getCode">
-      CLICK TO GENERATE PROMOTION CODE
-    </button>
+    <button @click="getCode">CLICK TO GENERATE PROMOTION CODE</button>
     <div class="code_group">
       <svg viewBox="0 0 53 60" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path
