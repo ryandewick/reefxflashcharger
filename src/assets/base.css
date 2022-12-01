@@ -19,4 +19,8 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url("/src/assets/images/mobile_bg.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
