@@ -236,7 +236,7 @@ button {
 
 .flashcharger_machine {
   position: absolute;
-  top: 120px;
+  top: 135px;
   left: -180px;
   z-index: 1;
 }
