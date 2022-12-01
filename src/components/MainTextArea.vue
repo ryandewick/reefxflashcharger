@@ -26,6 +26,7 @@
         <div class="applogos">
           <a
             href="https://apps.apple.com/gb/app/flash-charger/id1540192633"
+            target="_blank"
             class="appstore"
             ><img
               src="/src/assets/images/applestore.png"

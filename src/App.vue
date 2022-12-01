@@ -7,3 +7,12 @@ import HomeView from "./views/HomeView.vue";
     <router-view />
   </div>
 </template>
+
+<style>
+#app {
+  background: url("src/assets/images/mobile_bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+</style>
