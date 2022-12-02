@@ -1,8 +1,16 @@
 <template>
   <div class="home-view">
     <div class="background">
-      <img class="mobile" src="/src/assets/images/mobile_bg.webp" />
-      <img class="desktop" src="/src/assets/images/desktop_bg.webp" />
+      <img
+        class="mobile"
+        src="/src/assets/images/mobile_bg.webp"
+        alt="a phone connected to a wireless powerbank"
+      />
+      <img
+        class="desktop"
+        src="/src/assets/images/desktop_bg.webp"
+        alt="a phone connected to a wireless powerbank"
+      />
     </div>
     <Banner />
     <MainTextArea class="text_area" />
