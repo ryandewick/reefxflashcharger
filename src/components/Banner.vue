@@ -1,13 +1,13 @@
 <template>
   <div class="banner">
     <div class="banner_img">
-      <img src="/src/assets/images/reef.png" alt="reef logo" />
+      <img src="/src/assets/images/reef.webp" alt="reef logo" />
     </div>
     <div>
-      <img src="/src/assets/images/x.png" alt="image of an x" />
+      <img src="/src/assets/images/x.webp" alt="image of an x" />
     </div>
     <div class="banner_img">
-      <img src="/src/assets/images/flashcharger.png" alt="" />
+      <img src="/src/assets/images/flashcharger.webp" alt="flashcharger logo" />
     </div>
   </div>
 </template>
@@ -30,11 +30,10 @@
     width: 200px;
     margin: 0 50px;
   }
-
-  @media (min-width: 1280px) {
-    .banner_img img {
-      width: 250px;
-    }
+}
+@media (min-width: 1280px) {
+  .banner_img img {
+    width: 250px;
   }
 }
 </style>

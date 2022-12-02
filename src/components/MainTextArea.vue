@@ -29,7 +29,7 @@
             target="_blank"
             class="appstore"
             ><img
-              src="/src/assets/images/applestore.png"
+              src="/src/assets/images/applestore.webp"
               alt="Download to appstore"
           /></a>
           <a
@@ -38,14 +38,14 @@
             target="_blank"
             ><img
               alt="Get it on Google Play"
-              src="/src/assets/images/googleplay.png"
+              src="/src/assets/images/googleplay.webp"
           /></a>
         </div>
       </div>
 
       <div class="flashcharger_machine">
         <img
-          src="/src/assets/images/flashchargermachine.png"
+          src="/src/assets/images/flashchargermachine.webp"
           alt="a flashcharger machine"
         />
       </div>

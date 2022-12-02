@@ -1,8 +1,8 @@
 <template>
   <div class="home-view">
     <div class="background">
-      <img class="mobile" src="/src/assets/images/mobile_bg.png" />
-      <img class="desktop" src="/src/assets/images/desktop_bg.png" />
+      <img class="mobile" src="/src/assets/images/mobile_bg.webp" />
+      <img class="desktop" src="/src/assets/images/desktop_bg.webp" />
     </div>
     <Banner />
     <MainTextArea class="text_area" />
@@ -20,7 +20,6 @@ export default {
 <style scoped lang="scss">
 .home-view {
   width: 100%;
-  // position: relative;
 }
 
 .mobile {
